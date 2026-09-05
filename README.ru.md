@@ -60,36 +60,21 @@
 
 </details>
 
-## Технологии
-
-**Статистика и эксперименты**
-
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![CUPED](https://img.shields.io/badge/CUPED-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![Uplift Modeling](https://img.shields.io/badge/Uplift%20Modeling-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![Проверка гипотез](https://img.shields.io/badge/Hypothesis%20Testing-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![GARCH/ARCH](https://img.shields.io/badge/GARCH%2FARCH-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![Временные ряды](https://img.shields.io/badge/Time%20Series%20Analysis-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![Матстатистика](https://img.shields.io/badge/Mathematical%20Statistics-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![Теория вероятностей](https://img.shields.io/badge/Probability%20Theory-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-
-**ML и LLM**
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![SQL](https://img.shields.io/badge/SQL-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![PyTorch](https://img.shields.io/badge/PyTorch-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![RAG](https://img.shields.io/badge/RAG-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![Агенты / Tool Calling](https://img.shields.io/badge/Agents%20%2F%20Tool%20Calling-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-
-**Data Engineering и BI**
-
-![SQL](https://img.shields.io/badge/SQL-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
-![pandas](https://img.shields.io/badge/pandas-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
-![NumPy](https://img.shields.io/badge/NumPy-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![statsmodels](https://img.shields.io/badge/statsmodels-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![Experimentation Methodology](https://img.shields.io/badge/Experimentation%20Methodology-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![RAG & Agents](https://img.shields.io/badge/RAG%20%26%20Agents-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![Airflow](https://img.shields.io/badge/Airflow-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
-![ETL](https://img.shields.io/badge/ETL-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![Docker & FastAPI](https://img.shields.io/badge/Docker%20%26%20FastAPI-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![Power BI](https://img.shields.io/badge/Power%20BI-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 
 ## Открыта к
