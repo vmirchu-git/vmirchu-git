@@ -60,16 +60,21 @@ I work at the intersection of experimentation, applied ML, and LLM systems — d
 
 </details>
 
-## Tech stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
-![PyTorch](https://img.shields.io/badge/PyTorch-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![SQL](https://img.shields.io/badge/SQL-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
-![statsmodels](https://img.shields.io/badge/statsmodels-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![PyTorch](https://img.shields.io/badge/PyTorch-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![statsmodels](https://img.shields.io/badge/statsmodels-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![Experimentation Methodology](https://img.shields.io/badge/Experimentation%20Methodology-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
+![RAG & Agents](https://img.shields.io/badge/RAG%20%26%20Agents-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![Airflow](https://img.shields.io/badge/Airflow-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-14131a?style=flat-square&labelColor=14131a&color=c9a227)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-14131a?style=flat-square&labelColor=14131a&color=c9a227)
+![Docker & FastAPI](https://img.shields.io/badge/Docker%20%26%20FastAPI-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 ![Power BI](https://img.shields.io/badge/Power%20BI-14131a?style=flat-square&labelColor=14131a&color=7a1f2b)
 
 ## Open to
